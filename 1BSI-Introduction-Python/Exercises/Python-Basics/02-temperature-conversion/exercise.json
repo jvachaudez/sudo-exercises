@@ -1,0 +1,9 @@
+{
+  "id": "python-temperature-conversion",
+  "title": "Python 02 · Convertir une température",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

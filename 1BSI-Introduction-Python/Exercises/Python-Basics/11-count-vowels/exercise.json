@@ -1,0 +1,9 @@
+{
+  "id": "python-count-vowels",
+  "title": "Python 11 · Compter les voyelles",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

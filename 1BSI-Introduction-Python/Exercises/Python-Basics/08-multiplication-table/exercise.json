@@ -1,0 +1,9 @@
+{
+  "id": "python-multiplication-table",
+  "title": "Python 08 · Table de multiplication",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

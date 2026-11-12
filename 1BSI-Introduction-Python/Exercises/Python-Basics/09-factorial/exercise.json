@@ -1,0 +1,9 @@
+{
+  "id": "python-factorial",
+  "title": "Python 09 · Calculer une factorielle",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

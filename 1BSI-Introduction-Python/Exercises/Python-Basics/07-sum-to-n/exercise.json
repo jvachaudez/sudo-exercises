@@ -1,0 +1,9 @@
+{
+  "id": "python-sum-to-n",
+  "title": "Python 07 · Somme de 1 à n",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "python-maximum-of-three",
+  "title": "Python 06 · Maximum de trois nombres",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

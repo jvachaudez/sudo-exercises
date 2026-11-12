@@ -1,0 +1,9 @@
+{
+  "id": "python-double-number",
+  "title": "Python 01 · Doubler un nombre",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

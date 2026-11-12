@@ -1,0 +1,9 @@
+{
+  "id": "python-palindrome",
+  "title": "Python 12 · Vérifier un palindrome",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

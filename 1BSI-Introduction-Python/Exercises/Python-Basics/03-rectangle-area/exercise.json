@@ -1,0 +1,9 @@
+{
+  "id": "python-rectangle-area",
+  "title": "Python 03 · Aire d’un rectangle",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}

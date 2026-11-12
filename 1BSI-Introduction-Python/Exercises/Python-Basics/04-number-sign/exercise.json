@@ -1,0 +1,9 @@
+{
+  "id": "python-number-sign",
+  "title": "Python 04 · Déterminer le signe",
+  "language": "python",
+  "statement": "exercise.md",
+  "starter": "starter.py",
+  "solution": "solution.py",
+  "tests": "tests.py"
+}
